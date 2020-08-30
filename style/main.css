@@ -145,4 +145,28 @@ header nav a:hover{
   font-weight: bold;
   color: #3EC1D5;
 }
+/* Copy */
+
+#copy-area {
+  background-color: #E50914;
+}
+
+#copy-area .container {
+  padding: 10px 0;
+  text-align: center;
+}
+
+#copy-area .container p {
+  margin-bottom: 0;
+}
+
+#copy-area .container a {
+  font-weight: bold;
+  color: #E50914;
+}
+
+#copy-area .container a:hover {
+  text-decoration: none;
+  color: #E50914;
+}
 
