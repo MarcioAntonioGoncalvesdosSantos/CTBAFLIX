@@ -148,7 +148,7 @@ header nav a:hover{
 /* Copy */
 
 #copy-area {
-  background-color: #E50914;
+  background-color: #3EC1D5;
 }
 
 #copy-area .container {
@@ -162,11 +162,11 @@ header nav a:hover{
 
 #copy-area .container a {
   font-weight: bold;
-  color: #E50914;
+  color: #3EC1D5;
 }
 
 #copy-area .container a:hover {
   text-decoration: none;
-  color: #E50914;
+  color: #3EC1D5;
 }
 
